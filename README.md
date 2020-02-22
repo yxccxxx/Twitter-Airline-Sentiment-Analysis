@@ -1,9 +1,4 @@
-This is your group repo for your final project for COGS108.
+# Twitter Airline Sentiment Analysis
+Data Science Project
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
-
-This repository will be frozen on the due date: 11:59pm on Tuesday, June 13th. No further changes can be made after that time.
-
-Your final project will be graded based solely on a project notebook.
-
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date.
+Social media such as Twitter is a powerful tool for customer feedback due to the public nature of the feedback as well as the sheer volume produced. We explore how airline companies can benefit from the customer feedback on Twitter by analyzing a dataset composed of tweets on major airline companies from 2015, categorizing the words in individual tweets as “positive”, “negative”, or “neutral, and creating a classifier for future tweet analyzing. The most used words for each category are put into a frequency bar chart and word cloud for clarity, and the airlines get a bar chart not just for total feedback for each category, but the percentage of negative feedback relative to total feedback as well.
